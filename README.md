@@ -8,8 +8,8 @@ Todos los comandos se deben de correr en la consola dentro del directorio del pr
 
 * Instalar todas las gemas: `bundle install`
 
-* Crear la base de datos: `rake:db create`
+* Crear la base de datos: `rake db:create`
 
-* Correr las migraciones: `rake:db migrate`
+* Correr las migraciones: `rake db:migrate`
 
 * Levantar el servidor: `rails server`
